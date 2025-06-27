@@ -1,0 +1,12 @@
+streamlit
+openai
+langchain
+faiss-cpu
+PyMuPDF
+pandas
+plotly
+tqdm
+python-dotenv
+azure-ai-inference
+azure-core
+
